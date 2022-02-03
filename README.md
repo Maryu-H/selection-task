@@ -1,5 +1,14 @@
-#DMM WEBCAMPコンテンツ　【WEBアプリケーション開発コース】
+#DMM WEBCAMPコンテンツ　【WEBアプリケーション開発コース】__
 長期インターンの選考課題です。
 
-##使用方法
+##使用方法__
 html/css 及び javascriptのため、PCのブラウザで実行可能です。
+
+##ディレクトリ説明__
+-web-site:Webサイトを作ってみようのソースコード
+　-chapter-2:2章のソースコード
+　-chapter-3:3章のソースコード
+
+-web-applicationo:Webアプリケーションを作ってみようのソースコード
+　-chapter-1:1章のソースコード
+　-chapter-2:2章のソースコード
